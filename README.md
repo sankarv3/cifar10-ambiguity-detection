@@ -33,8 +33,8 @@ pip install -r requirements.txt
 ## Usage
 ### Clone Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/sankarv3/cifar10-ambiguity-detection.git
+cd cifar10-ambiguity-detection
 ```
 
 ### Running Part A (Human-guided)
